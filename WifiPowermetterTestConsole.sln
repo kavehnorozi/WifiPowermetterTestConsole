@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WifiPowermetterTestConsole", "WifiPowermetterTestConsole\WifiPowermetterTestConsole.csproj", "{0B2775EC-25C7-42D7-BC09-A75089A3F3AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B2775EC-25C7-42D7-BC09-A75089A3F3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2775EC-25C7-42D7-BC09-A75089A3F3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2775EC-25C7-42D7-BC09-A75089A3F3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2775EC-25C7-42D7-BC09-A75089A3F3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {249D68FE-9E90-48BC-9F47-5B172E078231}
+	EndGlobalSection
+EndGlobal
